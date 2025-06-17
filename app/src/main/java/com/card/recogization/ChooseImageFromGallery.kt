@@ -221,9 +221,6 @@ fun Context.showAlertDialog(
      return mLNumber
 }
 
-
-
-
 //
 //fun extractTextUsingTesseract(bitmap: Bitmap): String {
 //    val processedBitmap = convertBitmapToARGB8888(bitmap)
