@@ -222,9 +222,6 @@ fun Context.showAlertDialog(
 }
 
 
-fun convertBitmapToARGB8888(bitmap: Bitmap): Bitmap {
-    return bitmap.copy(Bitmap.Config.ARGB_8888, true)
-}
 
 
 //
