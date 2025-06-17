@@ -4,6 +4,7 @@ import java.nio.ByteBuffer;
 import java.util.Arrays;
 import java.util.List;
 
+import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.graphics.ImageFormat;
@@ -298,6 +299,7 @@ public class JavaCamera2View extends CameraBridgeViewBase {
         return false;
     }
 
+    @SuppressLint("MissingPermission")
     @Override
     protected boolean connectCamera(int width, int height) {
         Log.i(LOGTAG, "setCameraPreviewSize(" + width + "x" + height + ")");
