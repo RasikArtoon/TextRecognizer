@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "553454606270",
+    "firebase_url": "https://fir-practice-4766d-default-rtdb.firebaseio.com",
+    "project_id": "fir-practice-4766d",
+    "storage_bucket": "fir-practice-4766d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553454606270:android:02ff851e7bc237a6f7cbef",
+        "android_client_info": {
+          "package_name": "com.card.recogization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhonjXyL5dh6w7enuEpNSBQqzol2fboH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553454606270:android:f57995239b4869dcf7cbef",
+        "android_client_info": {
+          "package_name": "com.example.day6task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhonjXyL5dh6w7enuEpNSBQqzol2fboH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
